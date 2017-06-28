@@ -1,0 +1,7 @@
+---
+
+MAKER_HOME: "/home/MAKER"
+DFAM_LIB_URL: "http://www.dfam.org/web_download/Current_Release/Dfam.hmm.gz"
+REPBASE_FILE:
+TRF_URL: "http://tandem.bu.edu/trf/downloads/trf409.linux64"
+REPEAT_MASKER_URL: "http://www.repeatmasker.org/RepeatMasker-open-4-0-6.tar.gz"
